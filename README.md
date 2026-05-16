@@ -1,16 +1,24 @@
-## Hi there 👋
+### What's up! 👋
 
-<!--
-**Mykeleganerz/Mykeleganerz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Mykel, a backend developer from the Philippines.
 
-Here are some ideas to get you started:
+I build server-side systems — REST APIs, auth flows, database design, and the infrastructure that keeps things running. I like writing code that's organized, easy to maintain and hard to break.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently working with NestJS, PostgreSQL, and Docker. 
+
+Always learning.
+
+---
+
+**Tech**
+
+`TypeScript` `NestJS` `MySQL` `PostgreSQL` `Prisma ORM` `Redis` `Docker` `REST API`
+
+---
+
+**Fun Facts:**
+
+- I work best late at night when everything is quiet
+- My first instinct when something breaks is to check the logs, not Google
+- Open to remote opportunities and internships
+- BSIT student at Cavite State University – Imus Campus
