@@ -8,11 +8,13 @@ Currently working with NestJS, PostgreSQL, Redis, Docker and AWS.
 
 Always learning.
 
+🔭 Currently building: Briefly — an AI context-briefing tool that captures your conversation history from one AI tool and primes a new session in another, so you never have to re-explain context from scratch.
+
 ---
 
 **Tech**
 
-`TypeScript` `NestJS` `MySQL` `PostgreSQL` `Prisma ORM` `Redis` `Docker` `BullMQ` `AWS` `REST API`
+`NestJS` `TypeScript` `PostgreSQL` `MySQL` `PostgreSQL` `Prisma ORM` `Redis` `BullMQ` `Docker` `AWS` `Nginx`
 
 ---
 
