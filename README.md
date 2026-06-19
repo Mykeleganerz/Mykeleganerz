@@ -4,7 +4,7 @@ I'm Mykel, a backend developer from the Philippines.
 
 I build server-side systems — REST APIs, auth flows, database design, and the infrastructure that keeps things running. I like writing code that's organized, easy to maintain and hard to break.
 
-Currently working with NestJS, PostgreSQL, Redis and Docker. 
+Currently working with NestJS, PostgreSQL, Redis, Docker and AWS. 
 
 Always learning.
 
