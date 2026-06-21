@@ -8,7 +8,7 @@ Currently working with NestJS, PostgreSQL, Redis, Docker and AWS.
 
 Always learning.
 
-🔭 Currently building: **Briefly** — turns long AI coding conversations into structured developer context, removing unnecessary conversation history so you can continue working with another AI without wasting tokens explaining your project again.
+🔭 Currently building: **Briefly** — solves AI context loss in developer workflows. When an AI assistant reaches its usage limit, developers often copy entire conversations into another tool, wasting tokens on irrelevant messages and repeated explanations. Briefly extracts project state, decisions, debugging history, and next steps into an optimized context handoff for any AI assistant.
 
 ---
 
