@@ -15,7 +15,7 @@ Always learning.
 
 **Tech**
 
-`NestJS` `TypeScript` `MySQL` `PostgreSQL` `Prisma ORM` `Redis` `BullMQ` `Docker` `AWS` `Nginx`
+`NestJS` `TypeScript` `MySQL` `PostgreSQL` `Prisma ORM` `Redis` `BullMQ` `Google Gemini API` `Groq API` `Docker` `AWS` `Nginx`
 
 ---
 
