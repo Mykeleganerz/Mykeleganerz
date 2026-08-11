@@ -15,11 +15,17 @@ Always learning.
 
 **Tech**
 
-`NestJS` `TypeScript` `MySQL` `PostgreSQL` `Prisma ORM` `Redis` `BullMQ` `Google Gemini API` `Groq API` `Docker` `AWS` `Nginx`
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
 
 ---
 
-**Fun Facts:**
+**A few things about me**
 
 - I work best late at night when everything is quiet
 - My first instinct when something breaks is to check the logs, not Google
